@@ -2,6 +2,8 @@
 
 A SQL Server database for a clothing wholesaler: products with colour, size and category, suppliers, warehouses, purchasing, inventory, sales, delivery, staff and users. [`clothing-sales.sql`](clothing-sales.sql) creates the 10 tables, loads sample data and adds the views, stored procedures and triggers below.
 
+**My role:** solo project. I designed and built the whole database: schema, sample data, views, stored procedures, triggers and constraints.
+
 
 ## Database Structure
 
